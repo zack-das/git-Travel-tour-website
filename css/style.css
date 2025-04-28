@@ -14,7 +14,7 @@ font-family: 'Open Sans', sans-serif;
     --bg-color: #000;
     --main-color: #ffa343;
 
-    --h1-font: 4rem;
+    --h1-font: 6rem;
     --h2-font: 3rem;
     --p-font: 1rem;
 }
@@ -109,7 +109,7 @@ section{
     color: var(--main-color);
 }
 .home-text h1{
-    font-size: var(--h1-font);
+    font-size: 52px;
     font-weight: 800;
     line-height: 1.2;
     margin-bottom: 20px;
